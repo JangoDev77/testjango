@@ -1,4 +1,4 @@
 # testjango
 <br>
-first get repo
+first git repo
 secondline
